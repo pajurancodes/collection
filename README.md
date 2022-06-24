@@ -1,0 +1,3 @@
+# collection
+
+Various collection types.

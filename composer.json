@@ -1,0 +1,23 @@
+{
+    "name": "pajurancodes/collection",
+    "type": "library",
+    "description": "Various collection types",
+    "keywords": [
+        "collection"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Community of PajuranCodes",
+            "homepage": "https://github.com/pajurancodes"
+        }
+    ],
+    "require": {
+        "php": "^8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "PajuranCodes\\Collection\\": "src/"
+        }
+    }
+}
